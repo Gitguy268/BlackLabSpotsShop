@@ -200,5 +200,4 @@ Some recommended next steps (also listed in the refactor docs):
 
 ## License
 
-Add your chosen license here (e.g., MIT, Apache 2.0).  
-If you haven’t decided yet, this section can be updated later.
+[MIT]
