@@ -14,6 +14,10 @@ The app focuses on smooth animations, performant scrolling, and a premium “sty
 
 ---
 
+<!-- live-links -->
+**Project page:** [gitguy268.github.io/BlackLabSpotsShop](https://gitguy268.github.io/BlackLabSpotsShop/)
+<!-- /live-links -->
+
 <!-- run-steps:start -->
 ## Run it locally, step by step
 
