@@ -14,6 +14,33 @@ The app focuses on smooth animations, performant scrolling, and a premium “sty
 
 ---
 
+<!-- run-steps:start -->
+## Run it locally, step by step
+
+1. **Install [Node.js](https://nodejs.org) 22** or newer.
+
+2. **Get the code:**
+
+   ```sh
+   git clone https://github.com/Gitguy268/BlackLabSpotsShop.git
+   cd BlackLabSpotsShop
+   ```
+
+3. **Install the dependencies:**
+
+   ```sh
+   npm install
+   ```
+
+4. **Start it:**
+
+   ```sh
+   npm run dev
+   ```
+
+5. **Open <http://localhost:8080/>** in your browser. Press `Ctrl+C` in the terminal to stop.
+<!-- run-steps:end -->
+
 ## Features
 
 - **Product cards & quick view**  
